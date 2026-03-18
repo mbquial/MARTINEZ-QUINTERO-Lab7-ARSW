@@ -104,7 +104,7 @@ En el video se encuentran el proceso que permite evidenciar el cumplimiento cump
 - **RT multi-pestaña:** con 2 pestañas, los puntos se replican casi en tiempo real.
 - **CRUD:** Create/Save/Delete funcionan y refrescan la lista y el Total del autor.
 
-``` text
+```
 🚨🚨 **El link al video con la demostración está dentro de la carpeta `video/` en el archivo .txt llamado LINK
 ```
 
