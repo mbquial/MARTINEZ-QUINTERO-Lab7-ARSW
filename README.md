@@ -38,11 +38,14 @@ Se agregó login con JWT para permitir operaciones de escritura:
 
 - Login por `POST /api/auth/login` y fallback a `POST /auth/login`.
 ![Login](img/login.jpg)
+
 - Uso de `Authorization: Bearer <token>` en requests protegidos.
 ![Autorización bearer](img/bearer.jpg)
+
 - Persistencia de token en `localStorage`.
 ![Persistencia del token (instancia)](img/storage1.jpg)
 ![Persistencia del token (guardado)](img/storage2.jpg)
+
 - Logout limpiando token y estado local.
 ![Logout](img/logout.jpg)
 
