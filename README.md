@@ -108,7 +108,8 @@ En el video se encuentran el proceso que permite evidenciar el cumplimiento cump
 🚨🚨 **El link al video con la demostración:**
 [Link de OneDrive](https://1drv.ms/v/c/7297bdd241a2d24c/IQCDQpxUUYmLTKckVMxSyfd2Aa5Sv8WezAjiAXRyIv8wmFw?e=ta58xe)
 [Link de YouTube](https://www.youtube.com/watch?v=5rr6zoON5tI)
-Nota: Son el mismo video, solo que se mandaron 2 links para evitar problemas.
+
+**Nota:** Son el mismo video, solo que se mandaron 2 links para evitar problemas.
 
 ---
 
