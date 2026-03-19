@@ -20,7 +20,7 @@ Este README tiene la información correspondiente a **los cambios realizados en 
 ## 🤺 Cambios que tuvimos que realizar para cumplir con lo pedido en el laboratorio
 
 ### ✏ Ajustes para integración entre el Back y el Front
-Se ajustó el front (específicamente el App.jsx) para usar los endpoints disponibles en nuestro backend realizado en el laboratorio pasado:
+Se ajustó el front (específicamente el [App.jsx](src/App.jsx) para usar los endpoints disponibles en nuestro backend realizado en el laboratorio pasado:
 
 - `GET /api/blueprints/:author` para --> lista por autor.
 ![GET para listar por autor](img/get_autor.jpg)
@@ -105,7 +105,10 @@ En el video se encuentran el proceso que permite evidenciar el cumplimiento cump
 - **CRUD:** Create/Save/Delete funcionan y refrescan la lista y el Total del autor.
 
 
-🚨🚨 **El link al video con la demostración:** AQUI VA EL LINK DEL VIDEO
+🚨🚨 **El link al video con la demostración:**
+[Link de OneDrive](https://1drv.ms/v/c/7297bdd241a2d24c/IQCDQpxUUYmLTKckVMxSyfd2Aa5Sv8WezAjiAXRyIv8wmFw?e=ta58xe)
+[Link de YouTube](https://www.youtube.com/watch?v=5rr6zoON5tI)
+Nota: Son el mismo video, solo que se mandaron 2 links para evitar problemas.
 
 ---
 
